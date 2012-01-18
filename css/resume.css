@@ -1,0 +1,13 @@
+body { margin: 2em; }
+ul { list-style-type: circle; }
+h1 {
+  margin: 0;
+  padding: 0;
+}
+h2 { border-bottom: 1px dotted #AAA; }
+a {
+  text-decoration: none;
+  color: #06C;
+}
+a:hover { text-decoration: underline; }
+#header { text-align: center; }
