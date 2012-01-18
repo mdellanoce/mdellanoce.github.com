@@ -33,7 +33,6 @@ Working with a geographically distributed team to unify Rackspace's 5 disparate 
 * Made a business case for the redesign of the Email &amp; Apps control panel to be a thin UI implemented on top of our public REST API to reduce costly duplicated effort between teams. Led the implementation through the early stages.
 * Re-platformed the Email &amp; Apps DNS management tool from VB6 to .NET 3.5 resulting in operational and support cost savings.
 * Built a suite of automated acceptance tests with SpecFlow and WatiN.
-* Co-presented a public tech. talk on design patterns at the RBTC software developers' forum (August 2011). Presented the same talk again for a software engineering course at Radford University at the Professor's request (November 2011).
 
 ### January 2009-January 2010
 #### Team Lead: [Email &amp; Apps Control Panel](https://cp.rackspace.com)
@@ -65,6 +64,14 @@ Built Virginia Tech's &ldquo;Gigapixel&rdquo; display: an array of 50 high-resol
 ### April 2005-November 2005
 #### Netmar, Inc. Web Hosting: System Administrator
 Designed a new website for Netmar, wrote Perl CGI scripts to automate customer signups, and maintained web servers running various flavors of UNIX.
+
+## Speaking
+#### Applied Design Patterns
+
+A case study about the use of design patterns in two of Rackspaces largest projects.
+
+* Presented for a Radford University software engineering course at the Professor's request (November 2011).
+* Co-presented at the RBTC software developers' forum (August 2011).
 
 ## Education
 ### April 2010
