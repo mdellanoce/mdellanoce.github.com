@@ -78,7 +78,7 @@ Attended Udi Dahan's one-week Advanced Distributed System Design training course
 #### Bachelor of Science in Computer Science, Virginia Tech
 Math minor, GPA 3.61/4.00
 
-## Computer Skills
+## Skills
 C#, JavaScript, Ruby, HTML, CSS, Java, C/C++  
 Microsoft Windows (Server 2008), Ubuntu  
 Microsoft SQL Server 2008, MySQL  
