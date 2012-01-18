@@ -13,10 +13,10 @@ title: Michael DellaNoce's Resume
 
 ## Independent projects
 
-* Built a Twitter-style follow button for GitHub using Ruby and Sinatra (<a href="http://octophile.com">http://octophile.com</a>).
-* Built a collaborative whiteboard application with two coworkers using NodeJS and HTML5 Canvas (<a href="http://sketchwith.us">http://sketchwith.us</a>). The application got a short <a href="http://appadvice.com/appnn/2011/12/web-app-sketchwith-us-paints-with-friends-html">write-up on AppAdvice</a>.
+* Built a [Twitter-style follow button for GitHub](http://octophile.com) using Ruby, Sinatra, and GitHub's OAuth API.
+* Built a [collaborative whiteboard application](http://sketchwith.us) with two coworkers using NodeJS and HTML5 Canvas. The application got a short [write-up on AppAdvice](http://appadvice.com/appnn/2011/12/web-app-sketchwith-us-paints-with-friends-html).
 * Built a plugin for Vagrant that allows you to PuTTY into a Vagrant virtual machine from a Windows command line.
-* Contributed bug fixes to open source projects such as jQuery UI, jQuery validation, SpecFlow, and Vagrant.
+* Contributed to open source projects such as jQuery UI, jQuery validation, SpecFlow, Vagrant, and Chocolatey.
 
 ## Employment Experience
 ### October 2007-Present
