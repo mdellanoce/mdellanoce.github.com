@@ -43,7 +43,7 @@ Building Rackspace's "Cloud 2.0" control panel against OpenStack using Google Cl
 #### Software Developer: [Email & Apps Control Panel](https://cp.rackspace.com)
 
 * Was the lead contributor on the team that built the 3rd generation Email & Apps control panel. The control panel currently manages over 2.5 million mailboxes.
-* Implemented control panel support for Hosted Exchange 2007. Rackspace now hosts over 250,000 Exchange mailboxes, and was recently voted the best Hosted Exchange Provider (by Redmondmag.com).
+* Implemented control panel support for Hosted Exchange 2007. Rackspace now hosts over 250,000 Exchange mailboxes, and was recently voted the [best Hosted Exchange Provider](http://www.rackspace.com/blog/?p=2653).
  
 ### June 2007-August 2007
 #### Naval Research Laboratory: Summer Intern
