@@ -82,7 +82,8 @@ Attended Udi Dahan's one-week Advanced Distributed System Design training course
 Math minor, GPA 3.61/4.00
 
 ## Skills
-C#, JavaScript, Ruby, HTML, CSS, Java, C/C++  
-Microsoft Windows (Server 2008), Ubuntu  
-Microsoft SQL Server 2008, MySQL  
-Subversion, Git  
+**Programming Languages:** C#, JavaScript, Ruby, HTML, CSS, Java, C/C++  
+**Testing:** Unit testing, test-driven development, behavior-driven development  
+**Operating Systems:** Microsoft Windows (Server 2008), Ubuntu  
+**Databases:** Microsoft SQL Server 2008, MySQL  
+**Source Control:** Subversion, Git  
