@@ -11,24 +11,19 @@ title: Michael DellaNoce's Resume
   <div><a href="https://github.com/mdellanoce">https://github.com/mdellanoce</a></div>
 </div>
 
-## Employment Experience
-### October 2007-Present
-#### Rackspace Hosting
+## Rackspace Hosting (October 2007-Present)
 
-### December 2011-Present
-#### Software Developer: "Reach" Control Panel
+### Software Developer: "Reach" Control Panel (December 2011-Present)
 
 Building Rackspace's "Cloud 2.0" control panel against OpenStack using Google's Closure Library, Python, and Django.
 
-### January 2010-November 2011
-#### Technical Lead: [Email & Apps Control Panel](https://cp.rackspace.com)
+### Technical Lead: [Email & Apps Control Panel](https://cp.rackspace.com) (January 2010-November 2011)
 
 * Re-implemented parts of the Email & Apps control panel against our public REST API to reduce costly duplicated effort between teams.
 * Re-platformed the Email & Apps self-service DNS management tool from VB6 to .NET 3.5 resulting in operational and support cost savings.
 * Built a suite of automated acceptance tests with SpecFlow and WatiN.
 
-### January 2009-January 2010
-#### Team Lead: [Email & Apps Control Panel](https://cp.rackspace.com)
+### Team Lead: [Email & Apps Control Panel](https://cp.rackspace.com) (January 2009-January 2010)
 
 * Managed a team of 10 developers, testers, and operations engineers.
 * Deployed the control panel to the production environment weekly.
@@ -39,22 +34,24 @@ Building Rackspace's "Cloud 2.0" control panel against OpenStack using Google's 
 * Raised automated test coverage from 5% to 45%.
 * On call 24/7.
 
-### October 2007-January 2009
-#### Software Developer: [Email & Apps Control Panel](https://cp.rackspace.com)
+### Software Developer: [Email & Apps Control Panel](https://cp.rackspace.com) (October 2007-January 2009)
 
 * Was the lead contributor on the team that built the 3rd generation Email & Apps control panel. The control panel currently manages over 2.5 million mailboxes.
 * Implemented control panel support for Hosted Exchange 2007. Rackspace now hosts over 250,000 Exchange mailboxes, and was recently voted the [best Hosted Exchange Provider](http://www.rackspace.com/blog/?p=2653).
  
-### June 2007-August 2007
-#### Naval Research Laboratory: Summer Intern
+## Naval Research Laboratory (June 2007-August 2007)
+### Summer Intern
+
 Built a high-resolution display cluster with 6 displays driven by 3 machines, scripted environments in Second Life, and designed an experiment to determine the effects of display resolution on collaborative task performance.
  
-### January 2006-May 2007
-#### InfoVis Lab at Virginia Tech: Graduate Research Assistant
+## InfoVis Lab at Virginia Tech (January 2006-May 2007)
+### Graduate Research Assistant
+
 Built Virginia Tech's "Gigapixel" display: an array of 50 high-resolution LCD monitors powered by a cluster of 25 Fedora Linux machines.
 
-### April 2005-November 2005
-#### Netmar, Inc. Web Hosting: System Administrator
+## Netmar, Inc. Web Hosting (April 2005-November 2005)
+### System Administrator
+
 Designed a new website for Netmar, wrote Perl CGI scripts to automate customer signups, and maintained web servers running various flavors of UNIX.
 
 ## Independent projects
