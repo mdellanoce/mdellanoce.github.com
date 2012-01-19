@@ -18,7 +18,7 @@ title: Michael DellaNoce's Resume
 ### December 2011-Present
 #### Software Developer: "Reach" Control Panel
 
-Building Rackspace's "Cloud 2.0" control panel against OpenStack using Google Closure Library, Python, and Django.
+Building Rackspace's "Cloud 2.0" control panel against OpenStack using Google's Closure Library, Python, and Django.
 
 ### January 2010-November 2011
 #### Technical Lead: [Email & Apps Control Panel](https://cp.rackspace.com)
