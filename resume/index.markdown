@@ -69,7 +69,7 @@ Designed a new website for Netmar, wrote Perl CGI scripts to automate customer s
 
 A case study about the use of design patterns in two of Rackspace's largest systems.
 
-* Presented for a Radford University software engineering course at the Professor's request (November 2011).
+* Presented at a Radford University software engineering course at the Professor's request (November 2011).
 * Co-presented at the RBTC software developers' forum (August 2011).
 
 ## Education
