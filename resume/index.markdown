@@ -15,7 +15,7 @@ title: Michael DellaNoce's Resume
 
 * Built a [Twitter-style follow button for GitHub](http://octophile.com) using Ruby, Sinatra, and GitHub's OAuth API.
 * Built a [collaborative whiteboard application](http://sketchwith.us) with two coworkers using NodeJS and HTML5 Canvas. The application got a short [write-up on AppAdvice](http://appadvice.com/appnn/2011/12/web-app-sketchwith-us-paints-with-friends-html).
-* Built a plugin for Vagrant that allows you to PuTTY into a Vagrant virtual machine from a Windows command line.
+* Built a [plugin for Vagrant](http://rubygems.org/gems/vagrant-putty) that allows you to PuTTY into a Vagrant virtual machine from a Windows command line.
 * Contributed to open source projects such as jQuery UI, jQuery validation, SpecFlow, Vagrant, and Chocolatey.
 
 ## Employment Experience
@@ -23,14 +23,14 @@ title: Michael DellaNoce's Resume
 #### Rackspace Hosting
 
 ### December 2011-Present
-#### Software Developer: REACH Control Panel
+#### Software Developer: "Reach" Control Panel
 
-Working with a geographically distributed team to unify Rackspace's 5 disparate control panels into a single control panel.
+Building Rackspace's "Cloud 2.0" control panel against OpenStack using Google Closure Library, Python, and Django.
 
 ### January 2010-November 2011
 #### Technical Lead: [Email &amp; Apps Control Panel](https://cp.rackspace.com)
 
-* Made a business case for the redesign of the Email &amp; Apps control panel to be a thin UI implemented on top of our public REST API to reduce costly duplicated effort between teams. Led the implementation through the early stages.
+* Re-implemented parts of the Email &amp; Apps control panel against our public REST API to reduce costly duplicated effort between teams.
 * Re-platformed the Email &amp; Apps DNS management tool from VB6 to .NET 3.5 resulting in operational and support cost savings.
 * Built a suite of automated acceptance tests with SpecFlow and WatiN.
 
@@ -38,20 +38,19 @@ Working with a geographically distributed team to unify Rackspace's 5 disparate 
 #### Team Lead: [Email &amp; Apps Control Panel](https://cp.rackspace.com)
 
 * Managed a team of 10 developers, testers, and operations engineers.
-* Responsible for career development, performance reviews, and facilitating daily standups.
-* Deployed the control panel to the production environment once each week. Led the effort to automate the deployment process, which has since saved hundreds of man-hours. The deployment scripts automatically deploy control panel to the development and QA environments several times each day.
-* Contributed to the development and release of several major new Email &amp; Apps control panel features: Hosted SharePoint, JungleDisk integration, and email archiving.
-* Provided architectural guidance to junior developers and led the adoption of frameworks such as NServiceBus, ASP.NET MVC, and Castle Windsor.
+* Deployed the control panel to the production environment weekly.
+* Automated the build and deployment process with MSBuild and Powershell.
+* Implemented several major new Email &amp; Apps control panel features: Hosted SharePoint, JungleDisk integration, and email archiving.
+* Led the adoption of NServiceBus, ASP.NET MVC, Castle Windsor, jQuery, and jQuery UI.
 * Automated the collection and reporting of code complexity metrics. Decreased the maximum complexity of the control panel codebase from 42 to 15, and modified the build scripts to fail the build if complexity went over 15.
 * Raised automated test coverage from 5% to 45%.
-* Re-branded the control panel from Mailtrust to Rackspace.
 * On call 24/7.
 
 ### October 2007-January 2009
 #### Software Developer: [Email &amp; Apps Control Panel](https://cp.rackspace.com)
 
-* Was the lead contributor on a team responsible for building the 3rd generation Email &amp; Apps control panel. The control panel currently manages over 2.5 million mailboxes.
-* Helped build out control panel support for Hosted Exchange 2007. Rackspace now hosts over 250,000 Exchange mailboxes, and was recently voted the best Hosted Exchange Provider (by Redmondmag.com).
+* Was the lead contributor on the team that built the 3rd generation Email &amp; Apps control panel. The control panel currently manages over 2.5 million mailboxes.
+* Implemented control panel support for Hosted Exchange 2007. Rackspace now hosts over 250,000 Exchange mailboxes, and was recently voted the best Hosted Exchange Provider (by Redmondmag.com).
  
 ### June 2007-August 2007
 #### Naval Research Laboratory: Summer Intern
@@ -68,7 +67,7 @@ Designed a new website for Netmar, wrote Perl CGI scripts to automate customer s
 ## Speaking
 #### Applied Design Patterns
 
-A case study about the use of design patterns in two of Rackspaces largest projects.
+A case study about the use of design patterns in two of Rackspace's largest systems.
 
 * Presented for a Radford University software engineering course at the Professor's request (November 2011).
 * Co-presented at the RBTC software developers' forum (August 2011).
