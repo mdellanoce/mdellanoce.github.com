@@ -24,7 +24,7 @@ Building Rackspace's "Cloud 2.0" control panel against OpenStack using Google's 
 #### Technical Lead: [Email & Apps Control Panel](https://cp.rackspace.com)
 
 * Re-implemented parts of the Email & Apps control panel against our public REST API to reduce costly duplicated effort between teams.
-* Re-platformed the Email & Apps DNS management tool from VB6 to .NET 3.5 resulting in operational and support cost savings.
+* Re-platformed the Email & Apps self-service DNS management tool from VB6 to .NET 3.5 resulting in operational and support cost savings.
 * Built a suite of automated acceptance tests with SpecFlow and WatiN.
 
 ### January 2009-January 2010
