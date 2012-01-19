@@ -28,28 +28,28 @@ title: Michael DellaNoce's Resume
 Building Rackspace's "Cloud 2.0" control panel against OpenStack using Google Closure Library, Python, and Django.
 
 ### January 2010-November 2011
-#### Technical Lead: [Email &amp; Apps Control Panel](https://cp.rackspace.com)
+#### Technical Lead: [Email & Apps Control Panel](https://cp.rackspace.com)
 
-* Re-implemented parts of the Email &amp; Apps control panel against our public REST API to reduce costly duplicated effort between teams.
-* Re-platformed the Email &amp; Apps DNS management tool from VB6 to .NET 3.5 resulting in operational and support cost savings.
+* Re-implemented parts of the Email & Apps control panel against our public REST API to reduce costly duplicated effort between teams.
+* Re-platformed the Email & Apps DNS management tool from VB6 to .NET 3.5 resulting in operational and support cost savings.
 * Built a suite of automated acceptance tests with SpecFlow and WatiN.
 
 ### January 2009-January 2010
-#### Team Lead: [Email &amp; Apps Control Panel](https://cp.rackspace.com)
+#### Team Lead: [Email & Apps Control Panel](https://cp.rackspace.com)
 
 * Managed a team of 10 developers, testers, and operations engineers.
 * Deployed the control panel to the production environment weekly.
 * Automated the build and deployment process with MSBuild and Powershell.
-* Implemented several major new Email &amp; Apps control panel features: Hosted SharePoint, JungleDisk integration, and email archiving.
+* Implemented several major new Email & Apps control panel features: Hosted SharePoint, JungleDisk integration, and email archiving.
 * Led the adoption of NServiceBus, ASP.NET MVC, Castle Windsor, jQuery, and jQuery UI.
 * Automated the collection and reporting of code complexity metrics. Decreased the maximum complexity of the control panel codebase from 42 to 15, and modified the build scripts to fail the build if complexity went over 15.
 * Raised automated test coverage from 5% to 45%.
 * On call 24/7.
 
 ### October 2007-January 2009
-#### Software Developer: [Email &amp; Apps Control Panel](https://cp.rackspace.com)
+#### Software Developer: [Email & Apps Control Panel](https://cp.rackspace.com)
 
-* Was the lead contributor on the team that built the 3rd generation Email &amp; Apps control panel. The control panel currently manages over 2.5 million mailboxes.
+* Was the lead contributor on the team that built the 3rd generation Email & Apps control panel. The control panel currently manages over 2.5 million mailboxes.
 * Implemented control panel support for Hosted Exchange 2007. Rackspace now hosts over 250,000 Exchange mailboxes, and was recently voted the best Hosted Exchange Provider (by Redmondmag.com).
  
 ### June 2007-August 2007
@@ -58,7 +58,7 @@ Built a high-resolution display cluster with 6 displays driven by 3 machines, sc
  
 ### January 2006-May 2007
 #### InfoVis Lab at Virginia Tech: Graduate Research Assistant
-Built Virginia Tech's &ldquo;Gigapixel&rdquo; display: an array of 50 high-resolution LCD monitors powered by a cluster of 25 Fedora Linux machines.
+Built Virginia Tech's "Gigapixel" display: an array of 50 high-resolution LCD monitors powered by a cluster of 25 Fedora Linux machines.
 
 ### April 2005-November 2005
 #### Netmar, Inc. Web Hosting: System Administrator
