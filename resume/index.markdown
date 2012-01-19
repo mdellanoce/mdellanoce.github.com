@@ -11,13 +11,6 @@ title: Michael DellaNoce's Resume
   <div><a href="https://github.com/mdellanoce">https://github.com/mdellanoce</a></div>
 </div>
 
-## Independent projects
-
-* Built a [Twitter-style follow button for GitHub](http://octophile.com) using Ruby, Sinatra, and GitHub's OAuth API.
-* Built a [collaborative whiteboard application](http://sketchwith.us) with two coworkers using NodeJS and HTML5 Canvas. The application got a short [write-up on AppAdvice](http://appadvice.com/appnn/2011/12/web-app-sketchwith-us-paints-with-friends-html).
-* Built a [plugin for Vagrant](http://rubygems.org/gems/vagrant-putty) that allows you to PuTTY into a Vagrant virtual machine from a Windows command line.
-* Contributed to open source projects such as jQuery UI, jQuery validation, SpecFlow, Vagrant, and Chocolatey.
-
 ## Employment Experience
 ### October 2007-Present
 #### Rackspace Hosting
@@ -63,6 +56,13 @@ Built Virginia Tech's "Gigapixel" display: an array of 50 high-resolution LCD mo
 ### April 2005-November 2005
 #### Netmar, Inc. Web Hosting: System Administrator
 Designed a new website for Netmar, wrote Perl CGI scripts to automate customer signups, and maintained web servers running various flavors of UNIX.
+
+## Independent projects
+
+* Built a [Twitter-style follow button for GitHub](http://octophile.com) using Ruby, Sinatra, and GitHub's OAuth API.
+* Built a [collaborative whiteboard application](http://sketchwith.us) with two coworkers using NodeJS and HTML5 Canvas. The application got a short [write-up on AppAdvice](http://appadvice.com/appnn/2011/12/web-app-sketchwith-us-paints-with-friends-html).
+* Built a [plugin for Vagrant](http://rubygems.org/gems/vagrant-putty) that allows you to PuTTY into a Vagrant virtual machine from a Windows command line.
+* Contributed to open source projects such as jQuery UI, jQuery validation, SpecFlow, Vagrant, and Chocolatey.
 
 ## Speaking
 #### Applied Design Patterns
