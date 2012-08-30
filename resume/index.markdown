@@ -5,27 +5,34 @@ title: Michael DellaNoce's Resume
 
 <div id="header">
   <h1>Michael DellaNoce</h1>
-  <div>1104 Cottonwood Drive &middot; Blacksburg, VA 24060</div>
+  <div>4600 Mueller Blvd, Apt 4070 &middot; Austin, TX 78723</div>
   <div>(540) 817-8079 &middot; <a href="mailto:michael.dellanoce@gmail.com">michael.dellanoce@gmail.com</a></div>
   <div><a href="http://www.mikedellanoce.com">http://www.mikedellanoce.com</a></div>
   <div><a href="https://github.com/mdellanoce">https://github.com/mdellanoce</a></div>
 </div>
 
-## Rackspace Hosting (October 2007-Present)
+## Outbox, Inc. (March 2012-Present)
+### Lead Developer
 
-### Software Developer: "Reach" Control Panel (December 2011-Present)
+* Built Outbox's iPad application with Phonegap and Backbone.js.
+* Built Outbox's client mail access API with Ruby's Sinatra framework, CouchDB, and Amazon S3.
 
-Building Rackspace's "Cloud 2.0" control panel against OpenStack using Google's Closure Library, Python, and Django.
+## Rackspace Hosting (October 2007-March 2012)
+
+### Software Developer: "Reach" Control Panel (December 2011-March 2012)
+
+Worked with a geographically distributed team to build Rackspace's "Cloud 2.0" control panel against OpenStack using Google's Closure Library, Python, and Django.
 
 ### Technical Lead: [Email & Apps Control Panel](https://cp.rackspace.com) (January 2010-November 2011)
 
 * Re-implemented parts of the Email & Apps control panel against our public REST API to reduce costly duplicated effort between teams.
 * Re-platformed the Email & Apps self-service DNS management tool from VB6 to .NET 3.5 resulting in operational and support cost savings.
 * Built a suite of automated acceptance tests with SpecFlow and WatiN.
+* Contributed to open source projects such as jQuery UI, jQuery Validation, SpecFlow, Chocolatey, and Vagrant.
 
 ### Team Lead: [Email & Apps Control Panel](https://cp.rackspace.com) (January 2009-January 2010)
 
-* Managed a team of 10 developers, testers, and operations engineers.
+* Managed a team that grew to 10 developers, testers, and operations engineers.
 * Deployed the control panel to the production environment weekly.
 * Automated the build and deployment process with MSBuild and Powershell.
 * Implemented several major new Email & Apps control panel features: Hosted SharePoint, JungleDisk integration, and email archiving.
@@ -48,18 +55,6 @@ Built a high-resolution display cluster with 6 displays driven by 3 machines, sc
 ### Graduate Research Assistant
 
 Built Virginia Tech's "Gigapixel" display: an array of 50 high-resolution LCD monitors powered by a cluster of 25 Fedora Linux machines.
-
-## Netmar, Inc. Web Hosting (April 2005-November 2005)
-### System Administrator
-
-Designed a new website for Netmar, wrote Perl CGI scripts to automate customer signups, and maintained web servers running various flavors of UNIX.
-
-## Independent projects
-
-* Built a [Twitter-style follow button for GitHub](http://octophile.com) using Ruby, Sinatra, and GitHub's OAuth API.
-* Built a [collaborative whiteboard application](http://sketchwith.us) with two coworkers using NodeJS and HTML5 Canvas. The application got a short [write-up on AppAdvice](http://appadvice.com/appnn/2011/12/web-app-sketchwith-us-paints-with-friends-html).
-* Built a [plugin for Vagrant](http://rubygems.org/gems/vagrant-putty) that allows you to PuTTY into a Vagrant virtual machine from a Windows command line.
-* Contributed to open source projects such as jQuery UI, jQuery validation, SpecFlow, Vagrant, and Chocolatey.
 
 ## Speaking
 #### Applied Design Patterns
